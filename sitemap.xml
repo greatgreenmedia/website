@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Great Green Media sitemap. Lists public, indexable pages only
+     (the content partnership page is intentionally unlisted and excluded). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://greatgreenmedia.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://greatgreenmedia.com/field-notes/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://greatgreenmedia.com/field-notes/what-is-a-brand-story-video/</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://greatgreenmedia.com/field-notes/how-much-does-a-video-for-your-business-cost/</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://greatgreenmedia.com/field-notes/how-to-look-good-and-sound-good-on-camera/</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://greatgreenmedia.com/field-notes/photographer-vs-production-company/</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://greatgreenmedia.com/field-notes/set-the-scene/</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://greatgreenmedia.com/field-notes/disc-golf-on-the-farm-haute-goat/</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+</urlset>
